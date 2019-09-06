@@ -15,3 +15,14 @@
 
 ## COMO LO HARE?
 - Se seguiran las instrucciones que fueron pasadas por el catedrático
+
+
+## FECHA:05/09/2019
+
+## QUE HICE HASTA AHORA?
+- Realizamos prácticas referentes al uso de git.
+- Se creó la estructura básica del repositorio en GIT
+## QUE HARE HOY?
+- Se creará la estructura básica del documento del proyecto.
+## COMO LO HARE?
+- En grupos de tres se creará una estructura de documento común para ocuparlá como base para el documento de nuestro proyecto.
