@@ -26,3 +26,13 @@
 - Se creará la estructura básica del documento del proyecto.
 ## COMO LO HARE?
 - En grupos de tres se creará una estructura de documento común para ocuparlá como base para el documento de nuestro proyecto.
+
+## FECHA:10/09/2019
+
+## QUE HICE HASTA AHORA?
+- Realizamos practicas referentes a angular
+## QUE HARE HOY?
+- Se realizará una exposición de la unidad 3(Pruebas en el Software)
+- Se realizará la practica de angular-crud
+## COMO LO HARE?
+- Se descargará el proyecto de angular desde el repositorio y se levantará el proyecto
